@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = TestPkg","category":"page"},{"location":"#TestPkg","page":"Home","title":"TestPkg","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"using PyPlot\nx=rand(10)\ny=rand(10)\nfigure()\nplot(x,y,\"o-\")\nsavefig(\"testplot.svg\")","category":"page"},{"location":"","page":"Home","title":"Home","text":"(Image: )","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [TestPkg]","category":"page"}]
+}
